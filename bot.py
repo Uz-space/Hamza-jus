@@ -31,7 +31,7 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 # ============================================================
 #  SOZLAMALAR
 # ============================================================
-BOT_TOKEN = "BU_YERGA_BOT_TOKENINGIZNI_YOZING"
+BOT_TOKEN = "8953436213:AAH2_ZAKik4HlEo8yyOUpNpfDNYEw1jmwhU"
 FONT_PATH = "/usr/share/fonts/truetype/google-fonts/Poppins-Bold.ttf"
 FONT_SIZE = 105       # Harflar kattaligi (512x512 canvas uchun)
 MAX_CHARS = 10        # Maksimal harf soni
