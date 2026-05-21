@@ -32,7 +32,7 @@ from aiogram.filters import CommandStart, Command
 # ============================================================
 #  SOZLAMALAR
 # ============================================================
-BOT_TOKEN = "BU_YERGA_BOT_TOKENINGIZNI_YOZING"
+BOT_TOKEN = "8953436213:AAH2_ZAKik4HlEo8yyOUpNpfDNYEw1jmwhU"
 FONT_SIZE = 105
 MAX_CHARS = 10
 # ============================================================
