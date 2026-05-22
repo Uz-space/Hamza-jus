@@ -2,7 +2,7 @@ import sqlite3
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQueryHandler, ContextTypes, filters
 
-BOT_TOKEN = "8512672849:AAHzI5uSvTX5hzu8fdyL9BBsSk3esT4PBF4"
+BOT_TOKEN = "8512672849:AAEMkycjhp6M5CyrQDjEs6ua-lfCqxc0Hso"
 ADMIN_ID  = 7399101034
 
 BROADCAST, SET_CHANNEL, SET_GROUP = range(3)
